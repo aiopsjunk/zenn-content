@@ -1,0 +1,10 @@
+{
+  "name": "zenn-content",
+  "description": "AIOpsJunk Zenn content",
+  "scripts": {
+    "preview": "npx zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.0"
+  }
+}
